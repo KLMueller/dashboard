@@ -1,4 +1,34 @@
 # Dashboard
+STEP 1: Creating a Jira Account and Setting up the Project
+Aim: Create an Atlassian/Jira account and Setup a demo Kanban Project
+
+| https://www.atlassian.com/try/cloud/signup?bundle=jira-software&edition=free |
+
+ Navigate to the Jira Signup page and create an account
+🔻
+
+ Run through the questionnaire and answer all questions
+🔻
+
+ Give your team a name and set the defaults to Kanban
+🔻
+
+ Take the Jira Tour
+STEP 2: Outlining the Dashboard Project
+Aim: Create sample tasks for the Dashboard Project (the exercise for the day)
+
+| Jira Project Kanban Board |
+
+ Create 5 sample tasks and walk through some key features you can add
+
+Task 1: Create the layout for the page
+Task 2: Add the global styles
+Task 3: Add the Navigation tab bar
+Task 4: Create the three top infoboxes
+Task 5: Create a responsive grid with four dynamic boxes for Overview, Performance, Targets, Locations
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
 
