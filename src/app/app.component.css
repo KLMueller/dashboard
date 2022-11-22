@@ -1,0 +1,13 @@
+.container {
+  background-color: rgb(64, 103, 111);
+  position: absolute;
+  height: 250px;
+  width: 100%;
+}
+
+.col-sm-4 {
+  border: 2px solid black;
+  background-color: white;
+  height: 1in;
+  border-radius: 10px;
+}
